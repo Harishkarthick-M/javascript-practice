@@ -1,0 +1,10 @@
+let a=1;
+let b=3;
+let c=1;
+let d=(a&b)&c
+let e=(a^b)
+let f=3<<1;
+console.log("(A and B)and C="+d )
+console.log("A xor B="+e)
+console.log("left shift="+f)
+=
